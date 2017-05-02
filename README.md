@@ -39,7 +39,7 @@ Create your own Grails app
     ```
     curl -O start.grails.org/yourappname.zip -d profile=web
     ```
-- Type `ls` into the command line and you should see a new file called `yourappname.zip`. Now you need to unzip it: `unzip yourappname.zip` If you get an error about `unzip`, you may need to install that tool yourself using `sudo apt-get install zip unzip`. (Be cautious about using `sudo` commands if you're not sure of their source!) As an alternative, you could use Finder to extract the zipped files by typing `open .` in the terminal to open finder to your current directory.
+- Type `ls` into the command line and you should see a new file called `yourappname.zip`. Now you need to unzip it: `unzip yourappname.zip` If you get an error about `unzip`, you may need to install that tool yourself using `sudo apt-get install zip unzip`. (Be cautious about using `sudo` commands if you're not sure of their source!) As an alternative, you could use Finder to extract the zipped files by typing `open .` in the command line to open finder to your current directory.
 - If you type `ls` again in the terminal, you should now see two objects with your app's name, one that has the `.zip` after it and the other doesn't. Type `cd yourappname` (without the .zip).
 - Initialize this folder as a git repository and commit the folders and files you just created:
     ```
