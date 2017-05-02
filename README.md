@@ -25,10 +25,10 @@ Get started
 Copy this repo
 --------------
 - Forking is the quickest way to get started. Assuming you're logged in to your account on GitHub.com, click the "Fork" button in the upper-right corner. Git will duplicate this repo and put a copy of it in your account. After that, any changes you make affect only your copy. (Fun fact: You can do this with any public repo! Be aware of licensing but, generally, as long as you're trying to learn and not selling other people's code for your own profit, you can find a LOT fo cool, open-source stuff.)
-- Click the big green button labeled "Clone or download" and then the clipboard icon to save a copy of its URL.
+- Click the big green button labeled "Clone or download" and then click the clipboard icon next to the HTTP URL to save a copy of its URL.
 - Open the terminal and navigate to the folder where you want to put the app.
 - Type `git clone ` and then paste the URL you just copied from GitHub.
-- Type `cd grails-to-dos` to get into the folder and then start playing.
+- Type `cd grailstodos` to get into the folder and then start playing.
 
 Back to [top](#grails-todolist) or on to [run the app](#run-your-app) or [troubleshooting](#troubleshooting)
 
